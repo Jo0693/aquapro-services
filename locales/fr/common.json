@@ -1,0 +1,35 @@
+{
+  "site_name": "AquaPro Services",
+  "tagline": "Votre expert en plomberie & chauffage — 24h/24 et 7j/7",
+
+  "nav_home": "Accueil",
+  "nav_services": "Services",
+  "nav_gallery": "Réalisations",
+  "nav_blog": "Blog",
+  "nav_contact": "Contact",
+
+  "home_title": "Plombier & Chauffagiste à Paris — AquaPro Services",
+  "home_sub": "Interventions 24/7 pour vos fuites, installations et chaudières dans toute l'Île-de-France. Expert en plomberie et chauffage avec plus de 15 ans d'expérience.",
+
+  "services_title": "Nos Services de Plomberie & Chauffage à Paris",
+  "services_sub": "Dépannage d'urgence, installation de chaudières, réparation de fuites, débouchage canalisations — Service professionnel 24h/24 dans toute l'Île-de-France.",
+
+  "gallery_title": "Nos Réalisations — Projets de Plomberie & Chauffage",
+  "gallery_sub": "Découvrez nos interventions récentes à Paris et en Île-de-France : installations de chaudières, rénovations complètes, dépannages d'urgence.",
+
+  "blog_title": "Conseils & Actualités Plomberie — Blog AquaPro",
+  "blog_sub": "Retrouvez nos conseils d'experts en plomberie et chauffage, guides d'entretien et actualités du secteur pour particuliers et professionnels.",
+
+  "contact_title": "Contactez Votre Plombier à Paris — Devis Gratuit",
+  "contact_sub": "Besoin d'un plombier ou chauffagiste qualifié ? Contactez AquaPro Services pour un devis gratuit et une intervention rapide 24h/24 et 7j/7.",
+
+  "cta_quote": "Demander un devis",
+
+  "footer_tagline": "Disponible 24h/24 — Devis gratuit",
+  "footer_contact": "Contact",
+  "footer_phone": "☎ +33 1 23 45 67 89",
+  "footer_email": "✉ contact@aquapro-services.fr",
+  "footer_hours": "Horaires",
+  "footer_availability": "Service d'urgence 24h/24 et 7j/7",
+  "footer_rights": "Tous droits réservés."
+}

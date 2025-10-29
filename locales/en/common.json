@@ -1,0 +1,35 @@
+{
+  "site_name": "AquaPro Services",
+  "tagline": "Your plumbing & heating expert — 24/7 service",
+
+  "nav_home": "Home",
+  "nav_services": "Services",
+  "nav_gallery": "Projects",
+  "nav_blog": "Blog",
+  "nav_contact": "Contact",
+
+  "home_title": "Plumber & Heating Engineer in Paris — AquaPro Services",
+  "home_sub": "24/7 emergency services for leaks, installations and boilers throughout Paris and Île-de-France. Expert plumbing and heating with over 15 years of experience.",
+
+  "services_title": "Our Plumbing & Heating Services in Paris",
+  "services_sub": "Emergency repairs, boiler installations, leak repairs, drain unblocking — Professional 24/7 service throughout Paris and Île-de-France.",
+
+  "gallery_title": "Our Projects — Plumbing & Heating Work",
+  "gallery_sub": "Discover our recent projects in Paris and Île-de-France: boiler installations, complete renovations, emergency repairs.",
+
+  "blog_title": "Plumbing Tips & News — AquaPro Blog",
+  "blog_sub": "Expert plumbing and heating advice, maintenance guides and industry news for homeowners and professionals.",
+
+  "contact_title": "Contact Your Paris Plumber — Free Quote",
+  "contact_sub": "Need a qualified plumber or heating engineer? Contact AquaPro Services for a free quote and fast 24/7 service.",
+
+  "cta_quote": "Get a quote",
+
+  "footer_tagline": "Available 24/7 — Free quotes",
+  "footer_contact": "Contact",
+  "footer_phone": "☎ +33 1 23 45 67 89",
+  "footer_email": "✉ contact@aquapro-services.fr",
+  "footer_hours": "Hours",
+  "footer_availability": "24/7 emergency service available",
+  "footer_rights": "All rights reserved."
+}
