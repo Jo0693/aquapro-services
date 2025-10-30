@@ -1,6 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import matter from 'gray-matter';
+import { cache } from 'react';
 
 const postsDirectory = path.join(process.cwd(), 'content/blog');
 
@@ -14,15 +15,15 @@ export interface BlogPost {
   content: string;
 }
 
-export function getPostSlugs(locale: string = 'fr'): string[] {
+export const getPostSlugs = cache((locale: string = 'fr'): string[] => {
   const localeDir = path.join(postsDirectory, locale);
   if (!fs.existsSync(localeDir)) {
     return [];
   }
   return fs.readdirSync(localeDir).filter((file) => file.endsWith('.md'));
-}
+});
 
-export function getPostBySlug(slug: string, locale: string = 'fr'): BlogPost {
+export const getPostBySlug = cache((slug: string, locale: string = 'fr'): BlogPost => {
   const realSlug = slug.replace(/\.md$/, '');
   const fullPath = path.join(postsDirectory, locale, `${realSlug}.md`);
   const fileContents = fs.readFileSync(fullPath, 'utf8');
@@ -37,12 +38,12 @@ export function getPostBySlug(slug: string, locale: string = 'fr'): BlogPost {
     image: data.image,
     content,
   };
-}
+});
 
-export function getAllPosts(locale: string = 'fr'): BlogPost[] {
+export const getAllPosts = cache((locale: string = 'fr'): BlogPost[] => {
   const slugs = getPostSlugs(locale);
   const posts = slugs
     .map((slug) => getPostBySlug(slug, locale))
     .sort((post1, post2) => (post1.date > post2.date ? -1 : 1));
   return posts;
-}
+});
