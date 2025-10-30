@@ -11,6 +11,9 @@ export default function Header() {
   const [isScrolled, setIsScrolled] = useState(false);
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
 
+  const isHomePage = pathname === '/';
+  const shouldBeTransparent = isHomePage && !isScrolled;
+
   useEffect(() => {
     const handleScroll = () => {
       setIsScrolled(window.scrollY > 50);
@@ -35,13 +38,13 @@ export default function Header() {
 
   return (
     <header
-      className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
-        isScrolled ? 'bg-lightgray shadow-md' : 'bg-transparent'
+      className={`fixed top-0 left-0 right-0 z-50 transition-colors duration-500 ${
+        shouldBeTransparent ? 'bg-transparent' : 'bg-[#FFFFFFCC] shadow-sm backdrop-blur-sm'
       }`}
     >
       <nav className="container mx-auto px-4 py-4 flex items-center justify-between">
         <Link href="/" className="flex items-center">
-          <span className={`font-poppins text-2xl font-bold ${isScrolled ? 'text-steel' : 'text-white'}`}>
+          <span className={`font-poppins text-2xl font-bold transition-colors duration-500 ${shouldBeTransparent ? 'text-white' : 'text-steel'}`}>
             AquaPro Services
           </span>
         </Link>
@@ -52,14 +55,14 @@ export default function Header() {
             <Link
               key={item.href}
               href={item.href}
-              className={`font-medium transition-colors ${
+              className={`font-medium transition-colors duration-300 ${
                 pathname === item.href
-                  ? isScrolled
-                    ? 'text-steel'
-                    : 'text-gold'
-                  : isScrolled
-                  ? 'text-gray-700 hover:text-steel'
-                  : 'text-white hover:text-gold'
+                  ? shouldBeTransparent
+                    ? 'text-gold'
+                    : 'text-steel font-semibold'
+                  : shouldBeTransparent
+                  ? 'text-white hover:text-gold'
+                  : 'text-gray-700 hover:text-steel'
               }`}
             >
               {item.label}
@@ -67,10 +70,10 @@ export default function Header() {
           ))}
           <button
             onClick={toggleLanguage}
-            className={`px-4 py-2 rounded-md font-medium transition-colors ${
-              isScrolled
-                ? 'bg-steel text-white hover:bg-blue-900'
-                : 'bg-white bg-opacity-20 text-white hover:bg-opacity-30'
+            className={`px-4 py-2 rounded-md font-medium transition-colors duration-300 ${
+              shouldBeTransparent
+                ? 'bg-white bg-opacity-20 text-white hover:bg-opacity-30'
+                : 'bg-steel text-white hover:bg-blue-900'
             }`}
           >
             {i18n.language === 'fr' ? 'EN' : 'FR'}
@@ -80,7 +83,7 @@ export default function Header() {
         {/* Mobile Menu Button */}
         <button
           onClick={() => setIsMobileMenuOpen(!isMobileMenuOpen)}
-          className={`md:hidden ${isScrolled ? 'text-steel' : 'text-white'}`}
+          className={`md:hidden transition-colors duration-300 ${shouldBeTransparent ? 'text-white' : 'text-steel'}`}
         >
           <svg
             className="w-6 h-6"

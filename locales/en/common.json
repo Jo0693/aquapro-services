@@ -9,10 +9,103 @@
   "nav_contact": "Contact",
 
   "home_title": "Plumber & Heating Engineer in Paris — AquaPro Services",
-  "home_sub": "24/7 emergency services for leaks, installations and boilers throughout Paris and Île-de-France. Expert plumbing and heating with over 15 years of experience.",
+  "home_sub": "Repairs, installation and maintenance for plumbing and heating throughout Île-de-France. 24/7 service available.",
+
+  "services_section_title": "Our Services",
+  "services_section_sub": "Fast and professional interventions for all your plumbing and heating needs in Paris and Île-de-France.",
+
+  "service_1_title": "Emergency Repairs",
+  "service_1_desc": "Water leaks, blocked toilets, broken taps: rapid 24/7 intervention throughout Île-de-France.",
+  "service_2_title": "Installation & Renovation",
+  "service_2_desc": "Tap installation, bathroom renovation, complete sanitary installation.",
+  "service_3_title": "Heating & Boilers",
+  "service_3_desc": "Annual maintenance, repairs, boiler replacement, heating breakdown service.",
+
+  "why_us_title": "Why Choose Us?",
+  "why_us_sub": "Over 15 years of experience serving residential and commercial clients in Paris.",
+  "why_1_title": "Fast Response",
+  "why_1_desc": "Emergency intervention within 2 hours, 7 days a week, including weekends and holidays.",
+  "why_2_title": "Transparency",
+  "why_2_desc": "Clear and detailed quotes before work begins. No hidden fees, guaranteed fixed price.",
+  "why_3_title": "Guarantee",
+  "why_3_desc": "1-year guarantee on all work. RGE qualified craftsman with full insurance.",
+
+  "projects_title": "Our Recent Projects",
+  "projects_sub": "Discover some of our interventions in Paris and Île-de-France.",
+  "before_after_sample": "Before / After",
+  "project_1_title": "Complete bathroom renovation — Paris 15th",
+  "project_1_desc": "Replaced bathtub with walk-in shower, new tiling and modern fixtures.",
+  "project_2_title": "Condensing boiler installation — Versailles",
+  "project_2_desc": "Replaced old gas boiler with high-efficiency condensing model.",
+
+  "see_all_services": "See all our services",
+  "see_all_projects": "See all our projects",
+  "see_all_faqs": "See all questions",
+
+  "faq_title": "Frequently Asked Questions",
+  "faq_sub": "Everything you need to know before calling us.",
+  "faq_1_q": "What should I do if I have a water leak?",
+  "faq_1_a": "Immediately shut off the main water supply, mop up water and call us at 01 23 45 67 89. We respond within 2 hours for emergencies.",
+  "faq_2_q": "How much does drain unblocking cost?",
+  "faq_2_a": "Prices vary depending on complexity (between €80 and €200). We provide a free quote before any work.",
+  "faq_3_q": "Do you work evenings and weekends?",
+  "faq_3_a": "Yes, we're available 24/7, including public holidays, with no excessive surcharges.",
+
+  "cta_section_title": "Need a plumber now?",
+  "cta_section_sub": "Contact us for a free quote or emergency intervention. We're available 24/7.",
+  "cta_contact": "Contact us",
+  "cta_quote": "Get a quote",
+
+  "services_page_title": "Plumbing & Heating Services in Paris — AquaPro Services",
+  "services_page_sub": "Fast and professional interventions throughout Île-de-France for residential and commercial clients.",
+
+  "service_detail_1_title": "Emergency Plumbing Paris",
+  "service_detail_1_desc": "24/7 repairs across Paris & Île-de-France: water leaks, clogged toilets, broken taps, faulty water heaters. Our technicians respond within one hour with transparent quotes before any repair.",
+  "service_detail_1_bullet_1": "Water leak repairs (taps, pipes, toilets)",
+  "service_detail_1_bullet_2": "Drain unblocking (sinks, showers, drains)",
+  "service_detail_1_bullet_3": "Water heater and boiler repairs",
+  "service_detail_1_bullet_4": "Emergency response within 2 hours",
+
+  "service_detail_2_title": "Installation & Renovation Île-de-France",
+  "service_detail_2_desc": "Bathroom and kitchen remodelling, modern fittings installation, new pipes and drains. We use durable materials and provide a 1-year workmanship guarantee.",
+  "service_detail_2_bullet_1": "Complete bathroom renovations",
+  "service_detail_2_bullet_2": "Modern fixtures and walk-in shower installation",
+  "service_detail_2_bullet_3": "Plumbing code compliance upgrades",
+  "service_detail_2_bullet_4": "Sanitary installation (toilet, sink, bathtub)",
+
+  "service_detail_3_title": "Heating & Boilers Paris",
+  "service_detail_3_desc": "Annual maintenance, boiler replacement, and adjustments for gas or electric systems. Certified technicians ensuring safety and energy efficiency.",
+  "service_detail_3_bullet_1": "Mandatory annual boiler maintenance",
+  "service_detail_3_bullet_2": "Gas or electric boiler replacement",
+  "service_detail_3_bullet_3": "Heating and radiator repairs",
+  "service_detail_3_bullet_4": "Energy efficiency optimization",
+
+  "services_cta_title": "Need a plumber in Paris?",
+  "services_cta_sub": "Get your free quote today! Fast intervention throughout Île-de-France.",
+  "cta_free_quote": "Get a free quote",
+  "back_to_home": "Back to home",
 
   "services_title": "Our Plumbing & Heating Services in Paris",
-  "services_sub": "Emergency repairs, boiler installations, leak repairs, drain unblocking — Professional 24/7 service throughout Paris and Île-de-France.",
+  "services_sub": "Emergency repairs, boiler installations, leak repairs, drain unblocking — Professional 24/7 service throughout Île-de-France.",
+
+  "gallery_page_title": "Our Projects — Before / After",
+  "gallery_page_sub": "Discover some of our recent interventions in Paris and Île-de-France.",
+
+  "project_gallery_1": "Complete water column replacement – Paris 4th",
+  "project_gallery_2": "Walk-in shower installation – Neuilly-sur-Seine",
+  "project_gallery_3": "Sink leak repair – Boulogne-Billancourt",
+  "project_gallery_4": "Electric water heater overhaul – Montreuil",
+  "project_gallery_5": "Modern faucet installation – Levallois-Perret",
+  "project_gallery_6": "Toilet unclog + partial renovation – Vincennes",
+
+  "gallery_view_label": "View before/after",
+  "gallery_before": "Before",
+  "gallery_after": "After",
+  "gallery_show_before": "Show before",
+  "gallery_show_after": "Show after",
+
+  "gallery_cta_title": "Want a result like this?",
+  "gallery_cta_sub": "Contact us today for a free quote!",
 
   "gallery_title": "Our Projects — Plumbing & Heating Work",
   "gallery_sub": "Discover our recent projects in Paris and Île-de-France: boiler installations, complete renovations, emergency repairs.",
@@ -20,10 +113,55 @@
   "blog_title": "Plumbing Tips & News — AquaPro Blog",
   "blog_sub": "Expert plumbing and heating advice, maintenance guides and industry news for homeowners and professionals.",
 
+  "contact_page_title": "Contact Us for a Free Quote",
+  "contact_page_sub": "A qualified technician responds within 24 hours. Fast intervention throughout Île-de-France.",
+
+  "contact_form_title": "Request Your Quote",
+  "form_name": "Full Name",
+  "form_name_placeholder": "John Smith",
+  "form_email": "Email",
+  "form_email_placeholder": "john.smith@email.com",
+  "form_phone": "Phone",
+  "form_phone_placeholder": "+33 6 12 34 56 78",
+  "form_message": "Your Message",
+  "form_message_placeholder": "Describe your need or problem...",
+  "form_submit": "Send My Request",
+  "form_success": "✓ Your message has been sent successfully!",
+
+  "error_name_required": "Name is required",
+  "error_email_required": "Email is required",
+  "error_email_invalid": "Email is not valid",
+  "error_phone_required": "Phone is required",
+  "error_message_required": "Message is required",
+
+  "contact_info_title": "Our Contact Details",
+  "contact_address_label": "Address",
+  "contact_address": "AquaPro Services\n12 Rue de Rivoli, 75004 Paris",
+  "contact_phone_label": "Phone",
+  "contact_phone": "+33 6 12 34 56 78",
+  "contact_whatsapp_label": "WhatsApp",
+  "contact_email_label": "Email",
+  "contact_email": "contact@aquapro-services.fr",
+  "contact_hours_label": "Hours",
+  "contact_hours": "24/7 emergency service available",
+
+  "contact_map_title": "Find Us",
+
+  "contact_cta_title": "Need urgent assistance?",
+  "contact_cta_sub": "Call us now for emergency service!",
+  "contact_cta_button": "Emergency 24/7",
+
   "contact_title": "Contact Your Paris Plumber — Free Quote",
   "contact_sub": "Need a qualified plumber or heating engineer? Contact AquaPro Services for a free quote and fast 24/7 service.",
 
-  "cta_quote": "Get a quote",
+  "floating_cta": "📞 Emergency 24/7",
+
+  "modal_urgency_title": "Contact Us Immediately",
+  "modal_urgency_sub": "Choose a quick way to reach us:",
+  "modal_cta_call": "Call Now",
+  "modal_cta_whatsapp": "WhatsApp",
+  "modal_cta_message": "Send a Message",
+  "modal_urgency_footer": "Fast intervention available 24/7",
 
   "footer_tagline": "Available 24/7 — Free quotes",
   "footer_contact": "Contact",
@@ -31,5 +169,45 @@
   "footer_email": "✉ contact@aquapro-services.fr",
   "footer_hours": "Hours",
   "footer_availability": "24/7 emergency service available",
-  "footer_rights": "All rights reserved."
+  "footer_rights": "All rights reserved.",
+
+  "faq_page_title": "Frequently Asked Questions — Plumbing & Heating Paris",
+  "faq_page_sub": "Find quick answers to your questions about our plumbing and heating services in Paris and Île-de-France.",
+
+  "faq_page_q1": "What should I do in case of a water leak?",
+  "faq_page_a1": "Immediately shut off the main water supply, mop up water to limit damage, and contact AquaPro Services at +33 6 12 34 56 78. We respond within 2 hours throughout Île-de-France for emergencies.",
+
+  "faq_page_q2": "How much does drain unblocking cost?",
+  "faq_page_a2": "The price varies depending on complexity and blockage type, typically between €80 and €200. We always provide a free and transparent quote before any work.",
+
+  "faq_page_q3": "Do you service gas boilers?",
+  "faq_page_a3": "Yes, we offer mandatory annual maintenance for all gas and electric boilers. We also provide repairs, replacements, and energy optimization services.",
+
+  "faq_page_q4": "Do you work evenings and weekends?",
+  "faq_page_a4": "Absolutely. AquaPro Services is available 24/7, including public holidays, for all your plumbing and heating emergencies, with no excessive surcharges.",
+
+  "faq_page_q5": "Do you offer free quotes?",
+  "faq_page_a5": "Yes, all our quotes are free with no obligation. We visit to assess your needs and provide a fixed, transparent price before starting any work.",
+
+  "faq_page_q6": "What are your response times?",
+  "faq_page_a6": "For emergencies, we respond within 2 hours anywhere in Paris and Île-de-France. For scheduled work, we adapt to your availability within 48 hours.",
+
+  "faq_page_q7": "Are you insured and certified?",
+  "faq_page_a7": "Yes, all our technicians are RGE certified (Recognized Environmental Guarantor) and we have comprehensive insurance to guarantee the quality of our work.",
+
+  "faq_page_q8": "Do you guarantee your work?",
+  "faq_page_a8": "All our work is guaranteed for 1 year. We only use quality parts and comply with current standards to ensure your safety and satisfaction.",
+
+  "faq_cta_title": "Have another question?",
+  "faq_cta_sub": "Don't hesitate to contact us for any specific request!",
+
+  "blog_read_more": "Read more",
+  "blog_loading": "Loading article...",
+  "back_to_blog": "Back to blog",
+
+  "blog_cta_title": "Need a plumber in Paris?",
+  "blog_cta_sub": "Contact us for a free quote and fast service throughout Île-de-France.",
+
+  "blog_post_cta_title": "Need help with plumbing or heating?",
+  "blog_post_cta_sub": "AquaPro Services operates 24/7 throughout Paris and Île-de-France."
 }

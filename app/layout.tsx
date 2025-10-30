@@ -3,6 +3,7 @@ import { Poppins, Inter } from 'next/font/google'
 import './globals.css'
 import Header from '@/components/Header'
 import Footer from '@/components/Footer'
+import FloatingCTA from '@/components/FloatingCTA'
 import ClientProvider from '@/components/ClientProvider'
 
 const poppins = Poppins({
@@ -33,6 +34,7 @@ export default function RootLayout({
           <Header />
           <main>{children}</main>
           <Footer />
+          <FloatingCTA />
         </ClientProvider>
       </body>
     </html>

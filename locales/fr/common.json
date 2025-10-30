@@ -9,10 +9,103 @@
   "nav_contact": "Contact",
 
   "home_title": "Plombier & Chauffagiste à Paris — AquaPro Services",
-  "home_sub": "Interventions 24/7 pour vos fuites, installations et chaudières dans toute l'Île-de-France. Expert en plomberie et chauffage avec plus de 15 ans d'expérience.",
+  "home_sub": "Dépannage, installation et entretien de plomberie et chauffage dans toute l'Île-de-France. Intervention 24h/24, 7j/7.",
+
+  "services_section_title": "Nos Services",
+  "services_section_sub": "Des interventions rapides et professionnelles pour tous vos besoins en plomberie et chauffage à Paris et en Île-de-France.",
+
+  "service_1_title": "Dépannage & Urgences",
+  "service_1_desc": "Fuites d'eau, WC bouchés, robinets cassés : intervention rapide 24h/24 dans toute l'Île-de-France.",
+  "service_2_title": "Installation & Rénovation",
+  "service_2_desc": "Pose de robinetterie, rénovation de salle de bain, installation sanitaire complète.",
+  "service_3_title": "Chauffage & Chaudière",
+  "service_3_desc": "Entretien annuel, réparation, remplacement de chaudière, dépannage chauffage.",
+
+  "why_us_title": "Pourquoi nous choisir ?",
+  "why_us_sub": "Plus de 15 ans d'expérience au service des particuliers et professionnels à Paris.",
+  "why_1_title": "Rapidité",
+  "why_1_desc": "Intervention sous 2h en cas d'urgence, 7j/7, même le week-end et jours fériés.",
+  "why_2_title": "Transparence",
+  "why_2_desc": "Devis clair et détaillé avant intervention. Aucun frais caché, tarif fixe garanti.",
+  "why_3_title": "Garantie",
+  "why_3_desc": "Travaux garantis 1 an. Artisan qualifié RGE et assuré décennale.",
+
+  "projects_title": "Nos Réalisations Récentes",
+  "projects_sub": "Découvrez quelques-unes de nos interventions à Paris et en Île-de-France.",
+  "before_after_sample": "Avant / Après",
+  "project_1_title": "Rénovation complète salle de bain — Paris 15e",
+  "project_1_desc": "Remplacement de la baignoire par une douche italienne, pose de carrelage et robinetterie moderne.",
+  "project_2_title": "Installation chaudière à condensation — Versailles",
+  "project_2_desc": "Remplacement d'une ancienne chaudière gaz par un modèle à condensation performant.",
+
+  "see_all_services": "Voir tous nos services",
+  "see_all_projects": "Voir toutes nos réalisations",
+  "see_all_faqs": "Voir toutes les questions",
+
+  "faq_title": "Questions Fréquentes",
+  "faq_sub": "Tout ce que vous devez savoir avant de nous appeler.",
+  "faq_1_q": "Que faire en cas de fuite d'eau ?",
+  "faq_1_a": "Coupez immédiatement l'arrivée d'eau principale, éponger l'eau et appelez-nous au 01 23 45 67 89. Nous intervenons sous 2h en urgence.",
+  "faq_2_q": "Combien coûte un débouchage de canalisation ?",
+  "faq_2_a": "Le tarif varie selon la complexité (entre 80€ et 200€). Nous établissons un devis gratuit avant toute intervention.",
+  "faq_3_q": "Intervenez-vous le soir et le week-end ?",
+  "faq_3_a": "Oui, nous sommes disponibles 24h/24, 7j/7, y compris les jours fériés, sans majoration excessive.",
+
+  "cta_section_title": "Besoin d'un plombier maintenant ?",
+  "cta_section_sub": "Contactez-nous pour un devis gratuit ou une intervention d'urgence. Nous sommes disponibles 24h/24.",
+  "cta_contact": "Nous contacter",
+  "cta_quote": "Demander un devis",
+
+  "services_page_title": "Services de plomberie & chauffage à Paris — AquaPro Services",
+  "services_page_sub": "Interventions rapides et professionnelles dans toute l'Île-de-France pour particuliers et professionnels.",
+
+  "service_detail_1_title": "Dépannage & Urgences Paris",
+  "service_detail_1_desc": "Interventions rapides 24h/24 et 7j/7 dans toute l'Île-de-France : fuites d'eau, débouchage WC, robinets cassés, chauffe-eau en panne. Nos techniciens se déplacent en moins d'une heure, avec devis clair avant toute réparation.",
+  "service_detail_1_bullet_1": "Réparation de fuites d'eau (robinets, tuyaux, WC)",
+  "service_detail_1_bullet_2": "Débouchage de canalisations, éviers, douches",
+  "service_detail_1_bullet_3": "Dépannage chauffe-eau et ballon d'eau chaude",
+  "service_detail_1_bullet_4": "Intervention sous 2h en cas d'urgence",
+
+  "service_detail_2_title": "Installation & Rénovation Île-de-France",
+  "service_detail_2_desc": "Création ou rénovation de salles de bain et cuisines, pose de robinetterie moderne, colonne de douche, tuyauterie neuve, évacuation. Nous travaillons avec des matériaux durables et garantis.",
+  "service_detail_2_bullet_1": "Rénovation complète de salle de bain",
+  "service_detail_2_bullet_2": "Installation de robinetterie et douche italienne",
+  "service_detail_2_bullet_3": "Mise aux normes de la plomberie",
+  "service_detail_2_bullet_4": "Pose de sanitaires (WC, lavabo, baignoire)",
+
+  "service_detail_3_title": "Chauffage & Chaudière Paris",
+  "service_detail_3_desc": "Entretien, remplacement et réglage de chaudières gaz ou électriques. Service agréé pour assurer votre sécurité et optimiser la consommation énergétique.",
+  "service_detail_3_bullet_1": "Entretien annuel obligatoire de chaudière",
+  "service_detail_3_bullet_2": "Remplacement de chaudière gaz ou électrique",
+  "service_detail_3_bullet_3": "Dépannage chauffage et radiateurs",
+  "service_detail_3_bullet_4": "Réglage et optimisation énergétique",
+
+  "services_cta_title": "Besoin d'un plombier à Paris ?",
+  "services_cta_sub": "Contactez-nous pour un devis gratuit et une intervention rapide dans toute l'Île-de-France.",
+  "cta_free_quote": "Demander un devis gratuit",
+  "back_to_home": "Retour à l'accueil",
 
   "services_title": "Nos Services de Plomberie & Chauffage à Paris",
   "services_sub": "Dépannage d'urgence, installation de chaudières, réparation de fuites, débouchage canalisations — Service professionnel 24h/24 dans toute l'Île-de-France.",
+
+  "gallery_page_title": "Nos Réalisations — Avant / Après",
+  "gallery_page_sub": "Découvrez quelques-unes de nos interventions récentes à Paris et en Île-de-France.",
+
+  "project_gallery_1": "Remplacement complet d'une colonne d'eau – Paris 4e",
+  "project_gallery_2": "Installation d'une douche italienne – Neuilly-sur-Seine",
+  "project_gallery_3": "Réparation fuite sous évier – Boulogne-Billancourt",
+  "project_gallery_4": "Remise à neuf d'un chauffe-eau électrique – Montreuil",
+  "project_gallery_5": "Installation robinetterie design – Levallois-Perret",
+  "project_gallery_6": "Débouchage WC + rénovation partielle – Vincennes",
+
+  "gallery_view_label": "Voir avant/après",
+  "gallery_before": "Avant",
+  "gallery_after": "Après",
+  "gallery_show_before": "Voir l'avant",
+  "gallery_show_after": "Voir l'après",
+
+  "gallery_cta_title": "Envie d'un résultat comme celui-ci ?",
+  "gallery_cta_sub": "Contactez-nous dès aujourd'hui pour un devis gratuit !",
 
   "gallery_title": "Nos Réalisations — Projets de Plomberie & Chauffage",
   "gallery_sub": "Découvrez nos interventions récentes à Paris et en Île-de-France : installations de chaudières, rénovations complètes, dépannages d'urgence.",
@@ -20,10 +113,55 @@
   "blog_title": "Conseils & Actualités Plomberie — Blog AquaPro",
   "blog_sub": "Retrouvez nos conseils d'experts en plomberie et chauffage, guides d'entretien et actualités du secteur pour particuliers et professionnels.",
 
+  "contact_page_title": "Contactez-nous pour un devis gratuit",
+  "contact_page_sub": "Un technicien qualifié vous répond sous 24h. Intervention rapide dans toute l'Île-de-France.",
+
+  "contact_form_title": "Demandez votre devis",
+  "form_name": "Nom complet",
+  "form_name_placeholder": "Jean Dupont",
+  "form_email": "Email",
+  "form_email_placeholder": "jean.dupont@email.com",
+  "form_phone": "Téléphone",
+  "form_phone_placeholder": "06 12 34 56 78",
+  "form_message": "Votre message",
+  "form_message_placeholder": "Décrivez votre besoin ou problème...",
+  "form_submit": "Envoyer ma demande",
+  "form_success": "✓ Votre message a bien été envoyé !",
+
+  "error_name_required": "Le nom est requis",
+  "error_email_required": "L'email est requis",
+  "error_email_invalid": "L'email n'est pas valide",
+  "error_phone_required": "Le téléphone est requis",
+  "error_message_required": "Le message est requis",
+
+  "contact_info_title": "Nos coordonnées",
+  "contact_address_label": "Adresse",
+  "contact_address": "AquaPro Services\n12 Rue de Rivoli, 75004 Paris",
+  "contact_phone_label": "Téléphone",
+  "contact_phone": "+33 6 12 34 56 78",
+  "contact_whatsapp_label": "WhatsApp",
+  "contact_email_label": "Email",
+  "contact_email": "contact@aquapro-services.fr",
+  "contact_hours_label": "Horaires",
+  "contact_hours": "Interventions 24h/24 et 7j/7",
+
+  "contact_map_title": "Nous situer",
+
+  "contact_cta_title": "Besoin d'une intervention rapide ?",
+  "contact_cta_sub": "Appelez-nous dès maintenant pour une urgence !",
+  "contact_cta_button": "Urgence 24/7",
+
   "contact_title": "Contactez Votre Plombier à Paris — Devis Gratuit",
   "contact_sub": "Besoin d'un plombier ou chauffagiste qualifié ? Contactez AquaPro Services pour un devis gratuit et une intervention rapide 24h/24 et 7j/7.",
 
-  "cta_quote": "Demander un devis",
+  "floating_cta": "📞 Urgence 24/7",
+
+  "modal_urgency_title": "Contactez-nous immédiatement",
+  "modal_urgency_sub": "Choisissez un moyen rapide pour nous joindre :",
+  "modal_cta_call": "Appeler maintenant",
+  "modal_cta_whatsapp": "WhatsApp",
+  "modal_cta_message": "Envoyer un message",
+  "modal_urgency_footer": "Intervention rapide 24h/24 et 7j/7",
 
   "footer_tagline": "Disponible 24h/24 — Devis gratuit",
   "footer_contact": "Contact",
@@ -31,5 +169,45 @@
   "footer_email": "✉ contact@aquapro-services.fr",
   "footer_hours": "Horaires",
   "footer_availability": "Service d'urgence 24h/24 et 7j/7",
-  "footer_rights": "Tous droits réservés."
+  "footer_rights": "Tous droits réservés.",
+
+  "faq_page_title": "Questions Fréquemment Posées — Plomberie & Chauffage Paris",
+  "faq_page_sub": "Trouvez rapidement des réponses à vos questions sur nos services de plomberie et chauffage à Paris et en Île-de-France.",
+
+  "faq_page_q1": "Que faire en cas de fuite d'eau ?",
+  "faq_page_a1": "Coupez immédiatement l'arrivée d'eau principale, épongez l'eau pour limiter les dégâts, et contactez AquaPro Services au +33 6 12 34 56 78. Nous intervenons sous 2h dans toute l'Île-de-France pour les urgences.",
+
+  "faq_page_q2": "Combien coûte un débouchage de canalisation ?",
+  "faq_page_a2": "Le tarif varie selon la complexité et le type de bouchon, généralement entre 80€ et 200€. Nous établissons toujours un devis gratuit et transparent avant toute intervention.",
+
+  "faq_page_q3": "Entretenez-vous les chaudières à gaz ?",
+  "faq_page_a3": "Oui, nous proposons l'entretien annuel obligatoire pour toutes les chaudières à gaz et électriques. Nous intervenons également pour les dépannages, remplacements et optimisations énergétiques.",
+
+  "faq_page_q4": "Intervenez-vous le soir et le week-end ?",
+  "faq_page_a4": "Absolument. AquaPro Services est disponible 24h/24 et 7j/7, y compris les jours fériés, pour toutes vos urgences de plomberie et chauffage, sans majoration excessive.",
+
+  "faq_page_q5": "Proposez-vous des devis gratuits ?",
+  "faq_page_a5": "Oui, tous nos devis sont gratuits et sans engagement. Nous nous déplaçons pour évaluer vos besoins et vous proposons un tarif fixe et transparent avant de commencer les travaux.",
+
+  "faq_page_q6": "Quels sont vos délais d'intervention ?",
+  "faq_page_a6": "Pour les urgences, nous intervenons sous 2 heures partout à Paris et en Île-de-France. Pour les interventions planifiées, nous nous adaptons à vos disponibilités dans les 48h.",
+
+  "faq_page_q7": "Êtes-vous assurés et certifiés ?",
+  "faq_page_a7": "Oui, tous nos techniciens sont qualifiés RGE (Reconnu Garant de l'Environnement) et nous disposons d'une assurance décennale pour garantir la qualité de nos interventions.",
+
+  "faq_page_q8": "Garantissez-vous vos travaux ?",
+  "faq_page_a8": "Tous nos travaux sont garantis 1 an. Nous utilisons uniquement des pièces de qualité et respectons les normes en vigueur pour assurer votre sécurité et votre satisfaction.",
+
+  "faq_cta_title": "Vous avez une autre question ?",
+  "faq_cta_sub": "N'hésitez pas à nous contacter pour toute demande spécifique !",
+
+  "blog_read_more": "Lire la suite",
+  "blog_loading": "Chargement de l'article...",
+  "back_to_blog": "Retour au blog",
+
+  "blog_cta_title": "Besoin d'un plombier à Paris ?",
+  "blog_cta_sub": "Contactez-nous pour un devis gratuit et une intervention rapide dans toute l'Île-de-France.",
+
+  "blog_post_cta_title": "Besoin d'aide pour votre plomberie ou chauffage ?",
+  "blog_post_cta_sub": "AquaPro Services intervient 24h/24 et 7j/7 partout à Paris et en Île-de-France."
 }
