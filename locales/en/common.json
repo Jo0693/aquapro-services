@@ -103,6 +103,8 @@
   "gallery_after": "After",
   "gallery_show_before": "Show before",
   "gallery_show_after": "Show after",
+  "gallery_toggle_before": "See Before",
+  "gallery_toggle_after": "See After",
 
   "gallery_cta_title": "Want a result like this?",
   "gallery_cta_sub": "Contact us today for a free quote!",
