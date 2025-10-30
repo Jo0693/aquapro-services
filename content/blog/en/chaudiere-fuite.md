@@ -3,7 +3,7 @@ title: "Why Is My Boiler Leaking? The 3 Most Common Causes"
 excerpt: "Understand the common causes of boiler leaks and how to prevent them."
 date: "2024-03-10"
 author: "AquaPro Services"
-image: "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?w=800&auto=format&fit=crop&q=60"
+image: "https://images.unsplash.com/photo-1607472586893-edb57bdc0e39?w=1200&q=80"
 ---
 
 # Why Is My Boiler Leaking? The 3 Most Common Causes

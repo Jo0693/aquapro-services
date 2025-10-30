@@ -38,7 +38,7 @@ export default function FloatingCTA() {
         whileHover={{ scale: 1.05 }}
         whileTap={{ scale: 0.95 }}
         onClick={openModal}
-        className="fixed bottom-6 right-6 z-[9998] bg-steel hover:bg-blue-900 text-white font-semibold py-3 px-6 rounded-full shadow-lg transition-all duration-300 flex items-center space-x-2 animate-pulse"
+        className="fixed bottom-6 right-6 z-[9998] bg-steel hover:bg-blue-900 text-white font-semibold py-3.5 px-7 rounded-full shadow-lg transition-all duration-300 flex items-center space-x-2 animate-pulse lg:py-3.5 lg:px-7"
       >
         <Phone className="w-5 h-5" />
         <span className="hidden sm:inline">{t('floating_cta')}</span>

@@ -35,8 +35,10 @@
   "before_after_sample": "Before / After",
   "project_1_title": "Complete bathroom renovation — Paris 15th",
   "project_1_desc": "Replaced bathtub with walk-in shower, new tiling and modern fixtures.",
+  "project_1_alt": "Modern walk-in shower installation in Paris 15th",
   "project_2_title": "Condensing boiler installation — Versailles",
   "project_2_desc": "Replaced old gas boiler with high-efficiency condensing model.",
+  "project_2_alt": "Water heater and boiler installation in Versailles",
 
   "see_all_services": "See all our services",
   "see_all_projects": "See all our projects",

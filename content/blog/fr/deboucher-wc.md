@@ -3,7 +3,7 @@ title: "Comment déboucher vos toilettes avant d'appeler un plombier ?"
 excerpt: "Un guide simple pour tenter les premières solutions avant de contacter un professionnel."
 date: "2024-03-15"
 author: "AquaPro Services"
-image: "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=800&auto=format&fit=crop&q=60"
+image: "https://images.unsplash.com/photo-1585704032915-c3400ca199e7?w=1200&q=80"
 ---
 
 # Comment déboucher vos toilettes avant d'appeler un plombier ?

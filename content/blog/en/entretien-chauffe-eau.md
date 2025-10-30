@@ -3,7 +3,7 @@ title: "Should You Service Your Water Heater Every Year?"
 excerpt: "Discover why regular maintenance extends your water heater's lifespan."
 date: "2024-03-05"
 author: "AquaPro Services"
-image: "https://images.unsplash.com/photo-1607472586893-edb57bdc0e39?w=800&auto=format&fit=crop&q=60"
+image: "https://images.unsplash.com/photo-1604709177225-055f99402ea3?w=1200&q=80"
 ---
 
 # Should You Service Your Water Heater Every Year?

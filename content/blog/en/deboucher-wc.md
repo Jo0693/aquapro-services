@@ -3,7 +3,7 @@ title: "How to Unclog Your Toilet Before Calling a Plumber"
 excerpt: "A simple guide to try initial solutions before contacting a professional."
 date: "2024-03-15"
 author: "AquaPro Services"
-image: "https://images.unsplash.com/photo-1584622650111-993a426fbf0a?w=800&auto=format&fit=crop&q=60"
+image: "https://images.unsplash.com/photo-1585704032915-c3400ca199e7?w=1200&q=80"
 ---
 
 # How to Unclog Your Toilet Before Calling a Plumber

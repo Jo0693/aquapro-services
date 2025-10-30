@@ -3,7 +3,7 @@ title: "Faut-il entretenir son chauffe-eau chaque année ?"
 excerpt: "Découvrez pourquoi un entretien régulier prolonge la durée de vie de votre chauffe-eau."
 date: "2024-03-05"
 author: "AquaPro Services"
-image: "https://images.unsplash.com/photo-1607472586893-edb57bdc0e39?w=800&auto=format&fit=crop&q=60"
+image: "https://images.unsplash.com/photo-1604709177225-055f99402ea3?w=1200&q=80"
 ---
 
 # Faut-il entretenir son chauffe-eau chaque année ?

@@ -3,6 +3,7 @@
 import { useTranslation } from 'react-i18next';
 import { motion } from 'framer-motion';
 import Link from 'next/link';
+import Image from 'next/image';
 import { useInView } from 'react-intersection-observer';
 import FAQ from '@/components/FAQ';
 
@@ -174,26 +175,46 @@ export default function Home() {
               initial={{ opacity: 0, x: -30 }}
               animate={projectsInView ? { opacity: 1, x: 0 } : {}}
               transition={{ duration: 0.6 }}
-              className="bg-white p-6 rounded-lg shadow-md"
+              className="bg-white rounded-lg shadow-md hover:shadow-xl transition-shadow duration-300 overflow-hidden group"
             >
-              <div className="aspect-video bg-gradient-to-br from-gray-300 to-gray-400 rounded-lg mb-4 flex items-center justify-center text-gray-600">
-                {t('before_after_sample')} 1
+              <div className="relative aspect-video overflow-hidden">
+                <Image
+                  src="https://images.unsplash.com/photo-1620626011761-996317b8d101?w=800&q=80"
+                  alt={t('project_1_alt')}
+                  fill
+                  className="object-cover transition-transform duration-500 group-hover:scale-110"
+                />
+                <div className="absolute inset-0 bg-black/50 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center justify-center">
+                  <span className="text-white font-semibold text-lg text-shadow">{t('gallery_view_label')}</span>
+                </div>
               </div>
-              <h3 className="font-poppins font-semibold text-steel mb-2">{t('project_1_title')}</h3>
-              <p className="text-gray-600 text-sm">{t('project_1_desc')}</p>
+              <div className="p-6">
+                <h3 className="font-poppins font-semibold text-steel mb-2 text-lg">{t('project_1_title')}</h3>
+                <p className="text-gray-600 text-sm">{t('project_1_desc')}</p>
+              </div>
             </motion.div>
 
             <motion.div
               initial={{ opacity: 0, x: 30 }}
               animate={projectsInView ? { opacity: 1, x: 0 } : {}}
               transition={{ duration: 0.6 }}
-              className="bg-white p-6 rounded-lg shadow-md"
+              className="bg-white rounded-lg shadow-md hover:shadow-xl transition-shadow duration-300 overflow-hidden group"
             >
-              <div className="aspect-video bg-gradient-to-br from-gray-300 to-gray-400 rounded-lg mb-4 flex items-center justify-center text-gray-600">
-                {t('before_after_sample')} 2
+              <div className="relative aspect-video overflow-hidden">
+                <Image
+                  src="https://images.unsplash.com/photo-1607472586893-edb57bdc0e39?w=800&q=80"
+                  alt={t('project_2_alt')}
+                  fill
+                  className="object-cover transition-transform duration-500 group-hover:scale-110"
+                />
+                <div className="absolute inset-0 bg-black/50 opacity-0 group-hover:opacity-100 transition-opacity duration-300 flex items-center justify-center">
+                  <span className="text-white font-semibold text-lg text-shadow">{t('gallery_view_label')}</span>
+                </div>
               </div>
-              <h3 className="font-poppins font-semibold text-steel mb-2">{t('project_2_title')}</h3>
-              <p className="text-gray-600 text-sm">{t('project_2_desc')}</p>
+              <div className="p-6">
+                <h3 className="font-poppins font-semibold text-steel mb-2 text-lg">{t('project_2_title')}</h3>
+                <p className="text-gray-600 text-sm">{t('project_2_desc')}</p>
+              </div>
             </motion.div>
           </div>
 

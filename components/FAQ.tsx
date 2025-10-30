@@ -46,10 +46,10 @@ export default function FAQ({ title, items }: FAQProps) {
                 </Disclosure.Button>
 
                 <Transition
-                  enter="transition duration-200 ease-out"
+                  enter="transition duration-150 ease-out"
                   enterFrom="transform opacity-0 -translate-y-2"
                   enterTo="transform opacity-100 translate-y-0"
-                  leave="transition duration-150 ease-out"
+                  leave="transition duration-100 ease-out"
                   leaveFrom="transform opacity-100 translate-y-0"
                   leaveTo="transform opacity-0 -translate-y-2"
                 >
